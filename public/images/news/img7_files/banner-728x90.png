@@ -1,0 +1,813 @@
+<!DOCTYPE html><!-- HTML 5 -->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>B4 U Media | Cinema Stars Reporter</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.b4umedia.in/xmlrpc.php" />
+
+<!--[if lt IE 9]>
+<script src="http://www.b4umedia.in/wp-content/themes/zeedynamic/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.b4umedia.in/" />
+<link rel="next" href="http://www.b4umedia.in/?paged=2" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="B4 U Media - Cinema Stars Reporter" />
+<meta property="og:url" content="http://www.b4umedia.in/" />
+<meta property="og:site_name" content="B4 U Media" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="B4 U Media &raquo; Feed" href="http://www.b4umedia.in/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="B4 U Media &raquo; Comments Feed" href="http://www.b4umedia.in/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.b4umedia.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='themezee_zeeDynamic_stylesheet-css'  href='http://www.b4umedia.in/wp-content/themes/zeedynamic/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='themezee_zeeDynamic_flexslider-css'  href='http://www.b4umedia.in/wp-content/themes/zeedynamic/css/flexslider.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='themezee_default_font-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans&#038;ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='themezee_default_title_font-css'  href='http://fonts.googleapis.com/css?family=Francois+One&#038;ver=4.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.b4umedia.in/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.b4umedia.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.b4umedia.in/wp-content/themes/zeedynamic/js/jquery.flexslider-min.js?ver=4.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themezeeSliderParams = {"animation":"slide","speed":"7000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.b4umedia.in/wp-content/themes/zeedynamic/js/slider.js?ver=4.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themezeeNavigationParams = {"menuTitle":"Menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.b4umedia.in/wp-content/themes/zeedynamic/js/navigation.js?ver=4.7.5'></script>
+<link rel='https://api.w.org/' href='http://www.b4umedia.in/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.b4umedia.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.b4umedia.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.5" />
+<!-- <meta name="NextGEN" version="2.1.15" /> -->
+<style type="text/css"></style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="home blog">
+
+<div id="wrapper" class="hfeed">
+	
+		<div id="header-wrap">
+	
+		<header id="header" class="container clearfix" role="banner">
+
+			<div id="logo">
+			
+				<a href="http://www.b4umedia.in/" title="B4 U Media" rel="home">
+								<h1 class="site-title">B4 U Media</h1>
+							</a>
+				
+							<h2 class="site-description"">Cinema Stars Reporter</h2>
+						
+			</div>
+<div class="top_banner">
+	<img src="http://www.b4umedia.in/wp-content/uploads/2014/03/banner-728x90.png" />
+</div>
+		</header>
+	
+	</div>
+		
+	<div id="navi-wrap">
+		<nav id="mainnav" class="container clearfix" role="navigation">
+			<ul id="mainnav-menu" class="menu"><li id="menu-item-67729" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-67729"><a href="http://www.b4umedia.in/">Home</a></li>
+<li id="menu-item-67730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67730"><a href="http://www.b4umedia.in/?cat=4630">TAMIL NADU</a></li>
+<li id="menu-item-67731" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67731"><a href="http://www.b4umedia.in/?cat=4499">Tamil Movies</a></li>
+<li id="menu-item-67732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67732"><a href="http://www.b4umedia.in/?cat=4490">Lang &#8211; English</a></li>
+<li id="menu-item-67733" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67733"><a href="http://www.b4umedia.in/?cat=4488">Lang-Tamil</a></li>
+<li id="menu-item-67734" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67734"><a href="http://www.b4umedia.in/?cat=4282">Preview</a></li>
+<li id="menu-item-67735" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67735"><a href="http://www.b4umedia.in/?cat=10">GENERAL</a></li>
+<li id="menu-item-67736" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67736"><a href="http://www.b4umedia.in/?cat=2128">FLASH NEWS</a></li>
+<li id="menu-item-67737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67737"><a href="http://www.b4umedia.in/?cat=5753">POLTICAL NEWS</a></li>
+<li id="menu-item-67738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67738"><a href="http://www.b4umedia.in/?cat=2140">posters</a></li>
+</ul>		</nav>
+	</div>
+	
+			
+	
+	<div id="wrap" class="container template-frontpage">
+	
+		<section id="content" class="primary" role="main">
+		
+				
+			<div id="frontpage-slider-wrap" class="clearfix">
+				<div id="frontpage-slider" class="zeeflexslider">
+					<ul class="zeeslides">
+			
+								
+					<li id="slide-89878" class="zeeslide">
+					
+						<img width="880" height="290" src="http://www.b4umedia.in/wp-content/uploads/2017/05/Shraddha-Srinath-Pics-12-880x290.jpg" class="slide-image wp-post-image" alt="" />
+						<div class="slide-entry clearfix">
+							<h2 class="slide-title"><a href="http://www.b4umedia.in/?p=89878" rel="bookmark">Actress Shraddha Srinath Photoshoot Images</a></h2>
+							<p>Actress Shraddha Srinath Photoshoot Images Thanks &amp; Regards-Nikkil &amp; Team</p>
+							<a href="http://www.b4umedia.in/?p=89878" class="slide-more-link">Read more &raquo;</a>
+						</div>
+					
+					</li>
+				
+								
+					<li id="slide-89873" class="zeeslide">
+					
+						
+						<div class="slide-entry clearfix">
+							<h2 class="slide-title"><a href="http://www.b4umedia.in/?p=89873" rel="bookmark">First look of Imaikka Nodigal Poster Image</a></h2>
+							<p>First look of Imaikka Nodigal Poster Image Thanks &amp; Regards-Suresh Chandra</p>
+							<a href="http://www.b4umedia.in/?p=89873" class="slide-more-link">Read more &raquo;</a>
+						</div>
+					
+					</li>
+				
+								
+					<li id="slide-89871" class="zeeslide">
+					
+						
+						<div class="slide-entry clearfix">
+							<h2 class="slide-title"><a href="http://www.b4umedia.in/?p=89871" rel="bookmark">Rangoon Trailer Video Link</a></h2>
+							<p>Rangoon Trailer Video Link Thanks &amp; Regards-Suresh Chandra</p>
+							<a href="http://www.b4umedia.in/?p=89871" class="slide-more-link">Read more &raquo;</a>
+						</div>
+					
+					</li>
+				
+								
+					<li id="slide-89868" class="zeeslide">
+					
+						
+						<div class="slide-entry clearfix">
+							<h2 class="slide-title"><a href="http://www.b4umedia.in/?p=89868" rel="bookmark">BRIIC Admission Open from May 25th &#8211; Poster  Image</a></h2>
+							<p>BRIIC Admission Open from May 25th &#8211; Poster Image Poster of Director Bharathirajaa&#8217;s &#8220;Bharathirajaa International Institute of Cinema&#8221; BRIIC Admission Open from May 25th Thanks &amp; Regards-Nikkil &amp; Team</p>
+							<a href="http://www.b4umedia.in/?p=89868" class="slide-more-link">Read more &raquo;</a>
+						</div>
+					
+					</li>
+				
+								
+					<li id="slide-89865" class="zeeslide">
+					
+						<img width="880" height="290" src="http://www.b4umedia.in/wp-content/uploads/2017/05/IMG-20170517-WA0005-880x290.jpg" class="slide-image wp-post-image" alt="" />
+						<div class="slide-entry clearfix">
+							<h2 class="slide-title"><a href="http://www.b4umedia.in/?p=89865" rel="bookmark">தமிழ் திரைப்பட வர்த்தக சபை உதயமானது</a></h2>
+							<p>தமிழ் திரைப்பட வர்த்தக சபை உதயமானது தமிழ் திரைப்பட தயாரிப்பாளர்கள், திரைப்பட விநியோகஸ்தர்கள், திரையரங்கு உரிமையாளர்கள் ஆகியோர் அங்கம் வகிக்கும் தமிழ் திரைப்பட வர்த்தக சபை இன்று உதயமானது. பிரபல தமிழ் திரைப்பட தயாரிப்பாளரும், திரைப்பட விநியோகஸ்தரும், திரையரங்கு உரிமையாளருமாகிய திரு</p>
+							<a href="http://www.b4umedia.in/?p=89865" class="slide-more-link">Read more &raquo;</a>
+						</div>
+					
+					</li>
+				
+							
+					</ul>
+				</div>
+			</div>
+				
+		
+				
+		<div class="frontpage-category-wrapper">
+		
+							<h2 class="frontpage-category-title">Tamil Nadu</h2>
+			
+			<div class="frontpage-category-horizontal clearfix">
+
+					
+				<article id="post-89878" class="post-89878 post type-post status-publish format-standard has-post-thumbnail hentry category-actress-female category-preview category-tamil-movies category-tamil-nadu tag-actress-shraddha-srinath-photoshoot-images">
+					
+					<a href="http://www.b4umedia.in/?p=89878" rel="bookmark"><img width="420" height="140" src="http://www.b4umedia.in/wp-content/uploads/2017/05/Shraddha-Srinath-Pics-12-420x140.jpg" class="attachment-frontpage_big_image size-frontpage_big_image wp-post-image" alt="" /></a>
+				
+					<h3 class="post-title"><a href="http://www.b4umedia.in/?p=89878" rel="bookmark">Actress Shraddha Srinath Photoshoot Images</a></h3>
+						
+					<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89878" title="6:48 pm" rel="bookmark"><time datetime="2017-05-17T18:48:21+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+
+					<div class="entry">
+						<p>Actress Shraddha Srinath Photoshoot Images Thanks &amp; Regards-Nikkil &amp; Team</p>
+					</div>
+					
+				</article>
+			
+					
+				<article id="post-89873" class="post-89873 post type-post status-publish format-standard hentry category-first-look category-tamil-movies category-tamil-nadu tag-first-look-of-imaikka-nodigal-poster-image">
+					
+					<a href="http://www.b4umedia.in/?p=89873" rel="bookmark"></a>
+				
+					<h3 class="post-title"><a href="http://www.b4umedia.in/?p=89873" rel="bookmark">First look of Imaikka Nodigal Poster Image</a></h3>
+						
+					<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89873" title="6:40 pm" rel="bookmark"><time datetime="2017-05-17T18:40:20+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+
+					<div class="entry">
+						<p>First look of Imaikka Nodigal Poster Image Thanks &amp; Regards-Suresh Chandra</p>
+					</div>
+					
+				</article>
+			
+				
+				
+			</div>
+
+		</div>
+		
+				
+				
+		<div class="frontpage-category-wrapper">
+		
+			<h2 class="frontpage-category-title">
+				Latest in Tamil Movies			<h2>
+			
+			<div class="frontpage-category-boxed clearfix">
+
+					
+			<article id="post-89878" class="first-post post-89878 post type-post status-publish format-standard has-post-thumbnail hentry category-actress-female category-preview category-tamil-movies category-tamil-nadu tag-actress-shraddha-srinath-photoshoot-images">
+				
+				<a href="http://www.b4umedia.in/?p=89878" rel="bookmark"><img width="420" height="140" src="http://www.b4umedia.in/wp-content/uploads/2017/05/Shraddha-Srinath-Pics-12-420x140.jpg" class="attachment-frontpage_big_image size-frontpage_big_image wp-post-image" alt="" /></a>
+			
+				<h3 class="post-title"><a href="http://www.b4umedia.in/?p=89878" rel="bookmark">Actress Shraddha Srinath Photoshoot Images</a></h3>
+					
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89878" title="6:48 pm" rel="bookmark"><time datetime="2017-05-17T18:48:21+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+
+				<div class="entry">
+					<p>Actress Shraddha Srinath Photoshoot Images Thanks &amp; Regards-Nikkil &amp; Team</p>
+				</div>
+				
+			</article>
+			
+		<div class="more-posts clearfix">
+			
+				
+			<article id="post-89873" class="clearfix post-89873 post type-post status-publish format-standard hentry category-first-look category-tamil-movies category-tamil-nadu tag-first-look-of-imaikka-nodigal-poster-image">
+				
+				<a href="http://www.b4umedia.in/?p=89873" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89873" rel="bookmark">First look of Imaikka Nodigal Poster Image</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89873" title="6:40 pm" rel="bookmark"><time datetime="2017-05-17T18:40:20+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89871" class="clearfix post-89871 post type-post status-publish format-standard hentry category-tamil-movies category-tamil-nadu category-trailers tag-rangoon-trailer-video-link">
+				
+				<a href="http://www.b4umedia.in/?p=89871" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89871" rel="bookmark">Rangoon Trailer Video Link</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89871" title="6:25 pm" rel="bookmark"><time datetime="2017-05-17T18:25:55+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89868" class="clearfix post-89868 post type-post status-publish format-standard hentry category-lang-english category-posters-2 category-tamil-movies category-tamil-nadu tag-briic-admission-open-from-may-25th-poster-image">
+				
+				<a href="http://www.b4umedia.in/?p=89868" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89868" rel="bookmark">BRIIC Admission Open from May 25th &#8211; Poster  Image</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89868" title="6:22 pm" rel="bookmark"><time datetime="2017-05-17T18:22:36+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+		</div>		
+		
+			</div>
+			
+		</div>
+		
+		
+				
+		<div class="frontpage-category-wrapper clearfix">
+		
+			<div class="frontpage-category-left frontpage-category-columns">
+		
+				<h2 class="frontpage-category-title">
+					Latest in PRESS MEET				<h2>
+			
+							
+			<article id="post-89863" class="first-post post-89863 post type-post status-publish format-standard hentry category-lang-english category-press-meet category-tamil-movies category-tamil-nadu tag-kalki-movie-press-meet-images-news">
+				
+				<a href="http://www.b4umedia.in/?p=89863" rel="bookmark"></a>
+			
+				<h3 class="post-title"><a href="http://www.b4umedia.in/?p=89863" rel="bookmark">Kalki Movie Press Meet Images &#038; News</a></h3>
+					
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89863" title="6:10 pm" rel="bookmark"><time datetime="2017-05-17T18:10:46+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+
+				<div class="entry">
+					<p>Kalki Movie Press Meet Images &amp; News Premier of Kalki, an independent and experimental film by debutant director Dhilip and scripted by the eminent Journalist</p>
+				</div>
+				
+			</article>
+			
+		<div class="more-posts clearfix">
+			
+				
+			<article id="post-89860" class="clearfix post-89860 post type-post status-publish format-standard has-post-thumbnail hentry category-b4umedia category-press-meet tag-superstar-rajinikanth-fans-meet-day-3-images">
+				
+				<a href="http://www.b4umedia.in/?p=89860" rel="bookmark"><img width="90" height="90" src="http://www.b4umedia.in/wp-content/uploads/2017/05/L0A6245_resize-90x90.jpg" class="attachment-frontpage_small_image size-frontpage_small_image wp-post-image" alt="" srcset="http://www.b4umedia.in/wp-content/uploads/2017/05/L0A6245_resize-90x90.jpg 90w, http://www.b4umedia.in/wp-content/uploads/2017/05/L0A6245_resize-150x150.jpg 150w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89860" rel="bookmark">Superstar Rajinikanth Fans Meet &#8211; Day 3 Images</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89860" title="5:48 pm" rel="bookmark"><time datetime="2017-05-17T17:48:58+00:00">May 17, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89816" class="clearfix post-89816 post type-post status-publish format-standard has-post-thumbnail hentry category-lang-english category-press-meet category-tamil-nadu category-telecomunication tag-hathyway-broad-band-on-their-announcement-of-actor-madhavan-on-their-brand-ambassador">
+				
+				<a href="http://www.b4umedia.in/?p=89816" rel="bookmark"><img width="90" height="90" src="http://www.b4umedia.in/wp-content/uploads/2017/05/Hathway-Logo-90x90.jpg" class="attachment-frontpage_small_image size-frontpage_small_image wp-post-image" alt="" srcset="http://www.b4umedia.in/wp-content/uploads/2017/05/Hathway-Logo-90x90.jpg 90w, http://www.b4umedia.in/wp-content/uploads/2017/05/Hathway-Logo-150x150.jpg 150w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89816" rel="bookmark">Hathyway broad band on their announcement of actor Madhavan on their brand ambassador.</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89816" title="4:42 pm" rel="bookmark"><time datetime="2017-05-16T16:42:48+00:00">May 16, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89727" class="clearfix post-89727 post type-post status-publish format-standard has-post-thumbnail hentry category-actor-male category-lang-tamil category-press-meet tag-superstar-photos-at-fans-meet-images-news">
+				
+				<a href="http://www.b4umedia.in/?p=89727" rel="bookmark"><img width="90" height="90" src="http://www.b4umedia.in/wp-content/uploads/2017/05/IMG_7700_800x533-90x90.jpg" class="attachment-frontpage_small_image size-frontpage_small_image wp-post-image" alt="" srcset="http://www.b4umedia.in/wp-content/uploads/2017/05/IMG_7700_800x533-90x90.jpg 90w, http://www.b4umedia.in/wp-content/uploads/2017/05/IMG_7700_800x533-150x150.jpg 150w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89727" rel="bookmark">Superstar Photos at Fans meet.   Images &#038; News</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89727" title="4:42 pm" rel="bookmark"><time datetime="2017-05-15T16:42:14+00:00">May 15, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+		</div>			
+				
+			</div>
+			
+			
+				<div class="frontpage-category-right frontpage-category-columns">
+		
+				<h2 class="frontpage-category-title">
+					Latest in GENERAL				<h2>
+							
+			<article id="post-89583" class="first-post post-89583 post type-post status-publish format-standard has-post-thumbnail hentry category-general category-lang-english category-preview category-tamil-nadu tag-tally-solutions-joins-hands-with-the-guild-and-cnbc-awaaz-as-technology-partner-and-conducts-itssme-futures-program-in-chennai">
+				
+				<a href="http://www.b4umedia.in/?p=89583" rel="bookmark"><img width="420" height="140" src="http://www.b4umedia.in/wp-content/uploads/2017/05/AAEAAQAAAAAAAAcqAAAAJDQ2MGY2ZjgxLTAyYjctNDQyMS1iZjI3LTEyNDIyMWY3MzI4ZA-Copy-Copy-Copy-420x140.png" class="attachment-frontpage_big_image size-frontpage_big_image wp-post-image" alt="" /></a>
+			
+				<h3 class="post-title"><a href="http://www.b4umedia.in/?p=89583" rel="bookmark">Tally Solutions joins hands with The Guild and CNBC Awaaz as Technology Partner and conducts its‘SME Futures’ program in Chennai &#8211;</a></h3>
+					
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89583" title="1:11 pm" rel="bookmark"><time datetime="2017-05-14T13:11:56+00:00">May 14, 2017</time></a>		</span>
+
+	</div>
+
+				<div class="entry">
+					<p>Tally Solutions joins hands with The Guild and CNBC Awaaz as Technology Partner and conducts its‘SME Futures’ program in Chennai &#8211; Tally Solutions joins hands</p>
+				</div>
+				
+			</article>
+			
+		<div class="more-posts clearfix">
+			
+				
+			<article id="post-89510" class="clearfix post-89510 post type-post status-publish format-standard has-post-thumbnail hentry category-cosmetic-products category-general category-lang-english category-tamil-nadu tag-news tag-amway-india-partners-with-samarthanam-trust-for-the-disabled-to-set-up-braille-audio-library-in-chennai-video-links tag-images">
+				
+				<a href="http://www.b4umedia.in/?p=89510" rel="bookmark"><img width="90" height="90" src="http://www.b4umedia.in/wp-content/uploads/2017/05/DSC05622-90x90.jpg" class="attachment-frontpage_small_image size-frontpage_small_image wp-post-image" alt="" srcset="http://www.b4umedia.in/wp-content/uploads/2017/05/DSC05622-90x90.jpg 90w, http://www.b4umedia.in/wp-content/uploads/2017/05/DSC05622-150x150.jpg 150w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89510" rel="bookmark">Amway India partners with Samarthanam Trust for the disabled to set-up Braille-Audio Library in Chennai. Video Link&#8217;s ,Images, &#038; News</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89510" title="5:59 pm" rel="bookmark"><time datetime="2017-05-13T17:59:28+00:00">May 13, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89558" class="clearfix post-89558 post type-post status-publish format-standard hentry category-general category-lang-english category-preview category-tamil-nadu tag-saregama-carvaan-digital-audio-player-with-pre-loaded-5000-retro-songs">
+				
+				<a href="http://www.b4umedia.in/?p=89558" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89558" rel="bookmark">Saregama Carvaan: Digital audio player with pre-loaded 5000 retro songs</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89558" title="9:12 pm" rel="bookmark"><time datetime="2017-05-12T21:12:51+00:00">May 12, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89464" class="clearfix post-89464 post type-post status-publish format-standard has-post-thumbnail hentry category-general category-lang-english category-tamil-nadu tag-pepsico-foundation-and-smile-foundation-empower-rural-women-in-kancheepuram-district-through-project-thiramai-news-images">
+				
+				<a href="http://www.b4umedia.in/?p=89464" rel="bookmark"><img width="90" height="90" src="http://www.b4umedia.in/wp-content/uploads/2017/05/Pic-2-90x90.jpg" class="attachment-frontpage_small_image size-frontpage_small_image wp-post-image" alt="" srcset="http://www.b4umedia.in/wp-content/uploads/2017/05/Pic-2-90x90.jpg 90w, http://www.b4umedia.in/wp-content/uploads/2017/05/Pic-2-150x150.jpg 150w" sizes="(max-width: 90px) 100vw, 90px" /></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89464" rel="bookmark">pepsiCo Foundation and Smile Foundation empower rural women in Kancheepuram District through Project Thiramai News &#038;  Images</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89464" title="8:13 am" rel="bookmark"><time datetime="2017-05-12T08:13:26+00:00">May 12, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+		</div>			
+				
+			</div>
+			
+				
+		</div>
+		
+		
+				
+		<div class="frontpage-category-wrapper">
+		
+			<h2 class="frontpage-category-title">
+				Latest in POLTICAL NEWS			<h2>
+			
+			<div class="frontpage-category-boxed clearfix">
+
+					
+			<article id="post-89532" class="first-post post-89532 post type-post status-publish format-standard hentry category-lang-tamil category-poltical-news category-tamil-nadu tag-12899">
+				
+				<a href="http://www.b4umedia.in/?p=89532" rel="bookmark"></a>
+			
+				<h3 class="post-title"><a href="http://www.b4umedia.in/?p=89532" rel="bookmark">கோவையில் தன்னார்வ அமைப்பின் சார்பில் அனைத்துலக அண்னையர் தினவிழா</a></h3>
+					
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89532" title="6:58 pm" rel="bookmark"><time datetime="2017-05-13T18:58:41+00:00">May 13, 2017</time></a>		</span>
+
+	</div>
+
+				<div class="entry">
+					<p>கோவையில் தன்னார்வ அமைப்பின் சார்பில் அனைத்துலக அண்னையர் தினவிழா  கோவையில் அனைத்துலக அண்னையர் தினவிழா கோவை பாப்பிஸ் ஹோட்டலில் அண்னையர் தின விழா ( Life for All ) தன்னார்வ தொண்டு நிறுவனத்தின்</p>
+				</div>
+				
+			</article>
+			
+		<div class="more-posts clearfix">
+			
+				
+			<article id="post-89528" class="clearfix post-89528 post type-post status-publish format-standard hentry category-lang-english category-poltical-news category-schools category-tamil-nadu tag--2---">
+				
+				<a href="http://www.b4umedia.in/?p=89528" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89528" rel="bookmark">பிளஸ் 2 தேர்வு முடிவுகள் : மனநலம் தொடர்பான ஆலோசனைகளை பெற 104 என்ற எண்ணில் மருத்துவ உதவி மையத்தை தொடர்பு கொண்டு ஆலோசனைகளை பெறலாம்</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89528" title="6:47 pm" rel="bookmark"><time datetime="2017-05-13T18:47:14+00:00">May 13, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89526" class="clearfix post-89526 post type-post status-publish format-standard hentry category-lang-tamil category-poltical-news category-tamil-nadu tag-12----">
+				
+				<a href="http://www.b4umedia.in/?p=89526" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89526" rel="bookmark">12ம் வகுப்பு அரசு பொதுத் தேர்வில் 100ரூ தேர்ச்சி பெற்ற பள்ளிகளின் தலைமையாசிரியர்களுக்கு பரிசுகள் மற்றும் காசோலைகளை அமைச்சர் வழங்கினார்கள்.</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89526" title="6:43 pm" rel="bookmark"><time datetime="2017-05-13T18:43:26+00:00">May 13, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+				
+			<article id="post-89517" class="clearfix post-89517 post type-post status-publish format-standard hentry category-lang-tamil category-poltical-news category-tamil-nadu tag-65---9- tag-12892">
+				
+				<a href="http://www.b4umedia.in/?p=89517" rel="bookmark"></a>
+				
+				<h2 class="post-title"><a href="http://www.b4umedia.in/?p=89517" rel="bookmark">65 வயதுக்கு மேற்பட்ட 9 கைவினைஞர்களுக்கு ஒரு லட்சம் ரூபாய்க்கான காசோலை மற்றும் 8 கிராம் தங்கப் பதக்கம், தாமிர பத்திரம் முதலமைச்சர் வழங்கினார்</a></h2>
+				
+				<div class="postmeta">		
+		<span class="meta-date">
+		<a href="http://www.b4umedia.in/?p=89517" title="6:22 pm" rel="bookmark"><time datetime="2017-05-13T18:22:07+00:00">May 13, 2017</time></a>		</span>
+
+	</div>
+				
+			</article>
+			
+		</div>		
+		
+			</div>
+			
+		</div>
+		
+		
+		
+		</section>
+		
+		
+<section id="sidebar" class="secondary clearfix" role="complementary">
+	
+	<aside id="search-2" class="widget widget_search">
+	<form role="search" method="get" id="searchform" action="http://www.b4umedia.in/">
+		<input type="text" value="" name="s" id="s" placeholder="Search..." />
+		<input type="submit" id="searchsubmit" value="" />
+	</form>
+</aside><aside id="email newsletter" class="widget eemail_widget"><h3 class="widgettitle">Email Newsletter</h3><script language="javascript" type="text/javascript" src="http://www.b4umedia.in/wp-content/plugins/email-newsletter/widget/widget.js"></script>
+<link rel="stylesheet" media="screen" type="text/css" href="http://www.b4umedia.in/wp-content/plugins/email-newsletter/widget/widget.css" />
+<div>
+  <div class="eemail_caption">
+    Sign up for our email newsletters  </div>
+  <div class="eemail_msg">
+    <span id="eemail_msg"></span>
+  </div>
+  <div class="eemail_textbox">
+    <input class="eemail_textbox_class" name="eemail_txt_email" id="eemail_txt_email" onkeypress="if(event.keyCode==13) eemail_submit_ajax('http://www.b4umedia.in/wp-content/plugins/email-newsletter/widget')" onblur="if(this.value=='') this.value='Enter email';" onfocus="if(this.value=='Enter email') this.value='';" value="Enter email" maxlength="150" type="text">
+  </div>
+  <div class="eemail_button">
+    <input class="eemail_textbox_button" name="eemail_txt_Button" id="eemail_txt_Button" onClick="return eemail_submit_ajax('http://www.b4umedia.in/wp-content/plugins/email-newsletter/widget')" value="Submit" type="button">
+  </div>
+</div></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.b4umedia.in/?p=89878">Actress Shraddha Srinath Photoshoot Images</a>
+						</li>
+					<li>
+				<a href="http://www.b4umedia.in/?p=89873">First look of Imaikka Nodigal Poster Image</a>
+						</li>
+					<li>
+				<a href="http://www.b4umedia.in/?p=89871">Rangoon Trailer Video Link</a>
+						</li>
+					<li>
+				<a href="http://www.b4umedia.in/?p=89868">BRIIC Admission Open from May 25th &#8211; Poster  Image</a>
+						</li>
+					<li>
+				<a href="http://www.b4umedia.in/?p=89865">தமிழ் திரைப்பட வர்த்தக சபை உதயமானது</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widgettitle">Recent Comments</h3><ul id="recentcomments"></ul></aside><aside id="categories-2" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-11783"><a href="http://www.b4umedia.in/?cat=11783" >A I R Radio</a>
+</li>
+	<li class="cat-item cat-item-5751"><a href="http://www.b4umedia.in/?cat=5751" >ACTOR MALE</a>
+</li>
+	<li class="cat-item cat-item-5750"><a href="http://www.b4umedia.in/?cat=5750" >ACTRESS FEMALE</a>
+</li>
+	<li class="cat-item cat-item-4245"><a href="http://www.b4umedia.in/?cat=4245" >Actress Hot gallery</a>
+</li>
+	<li class="cat-item cat-item-10346"><a href="http://www.b4umedia.in/?cat=10346" >Air Ways</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.b4umedia.in/?cat=13" >AndhraPradesh</a>
+</li>
+	<li class="cat-item cat-item-7443"><a href="http://www.b4umedia.in/?cat=7443" >Associations</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.b4umedia.in/?cat=8" >AUDIO EVENTS</a>
+</li>
+	<li class="cat-item cat-item-4056"><a href="http://www.b4umedia.in/?cat=4056" >AWARD</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.b4umedia.in/?cat=1" >B4 U MEDIA</a>
+</li>
+	<li class="cat-item cat-item-6136"><a href="http://www.b4umedia.in/?cat=6136" >Banks</a>
+</li>
+	<li class="cat-item cat-item-7098"><a href="http://www.b4umedia.in/?cat=7098" >Birthday</a>
+</li>
+	<li class="cat-item cat-item-9529"><a href="http://www.b4umedia.in/?cat=9529" >BOOK&#039;S/Novel&#039;s</a>
+</li>
+	<li class="cat-item cat-item-10614"><a href="http://www.b4umedia.in/?cat=10614" >Central</a>
+</li>
+	<li class="cat-item cat-item-9658"><a href="http://www.b4umedia.in/?cat=9658" >Clothes</a>
+</li>
+	<li class="cat-item cat-item-10312"><a href="http://www.b4umedia.in/?cat=10312" >Collage&#039;s</a>
+</li>
+	<li class="cat-item cat-item-10232"><a href="http://www.b4umedia.in/?cat=10232" >CORPORATION</a>
+</li>
+	<li class="cat-item cat-item-7506"><a href="http://www.b4umedia.in/?cat=7506" >Cosmetic Products</a>
+</li>
+	<li class="cat-item cat-item-10575"><a href="http://www.b4umedia.in/?cat=10575" >CULTARAL</a>
+</li>
+	<li class="cat-item cat-item-9569"><a href="http://www.b4umedia.in/?cat=9569" >Dabbing Movies</a>
+</li>
+	<li class="cat-item cat-item-9410"><a href="http://www.b4umedia.in/?cat=9410" >DEATH</a>
+</li>
+	<li class="cat-item cat-item-4496"><a href="http://www.b4umedia.in/?cat=4496" >Edducation</a>
+</li>
+	<li class="cat-item cat-item-7104"><a href="http://www.b4umedia.in/?cat=7104" >Elctronics &amp; Electrcale</a>
+</li>
+	<li class="cat-item cat-item-4501"><a href="http://www.b4umedia.in/?cat=4501" >English Movies</a>
+</li>
+	<li class="cat-item cat-item-6838"><a href="http://www.b4umedia.in/?cat=6838" >Event images</a>
+</li>
+	<li class="cat-item cat-item-6839"><a href="http://www.b4umedia.in/?cat=6839" >Event news</a>
+</li>
+	<li class="cat-item cat-item-10233"><a href="http://www.b4umedia.in/?cat=10233" >FARMERS</a>
+</li>
+	<li class="cat-item cat-item-7126"><a href="http://www.b4umedia.in/?cat=7126" >Fashion Show</a>
+</li>
+	<li class="cat-item cat-item-2244"><a href="http://www.b4umedia.in/?cat=2244" >First Look</a>
+</li>
+	<li class="cat-item cat-item-2128"><a href="http://www.b4umedia.in/?cat=2128" >FLASH NEWS</a>
+</li>
+	<li class="cat-item cat-item-9296"><a href="http://www.b4umedia.in/?cat=9296" >FOOD</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.b4umedia.in/?cat=10" >GENERAL</a>
+</li>
+	<li class="cat-item cat-item-10217"><a href="http://www.b4umedia.in/?cat=10217" >High Court</a>
+</li>
+	<li class="cat-item cat-item-4502"><a href="http://www.b4umedia.in/?cat=4502" >Hindhi Movies</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.b4umedia.in/?cat=19" >HOLLYWOOD</a>
+</li>
+	<li class="cat-item cat-item-7773"><a href="http://www.b4umedia.in/?cat=7773" >Home Appliances</a>
+</li>
+	<li class="cat-item cat-item-6048"><a href="http://www.b4umedia.in/?cat=6048" >Hospitales</a>
+</li>
+	<li class="cat-item cat-item-6776"><a href="http://www.b4umedia.in/?cat=6776" >HOTELS</a>
+</li>
+	<li class="cat-item cat-item-7143"><a href="http://www.b4umedia.in/?cat=7143" >Indurstries</a>
+</li>
+	<li class="cat-item cat-item-6160"><a href="http://www.b4umedia.in/?cat=6160" >Interviews</a>
+</li>
+	<li class="cat-item cat-item-8295"><a href="http://www.b4umedia.in/?cat=8295" >Jewellery</a>
+</li>
+	<li class="cat-item cat-item-4503"><a href="http://www.b4umedia.in/?cat=4503" >KanadaMovies</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.b4umedia.in/?cat=28" >Karnatakka</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.b4umedia.in/?cat=25" >Kerala</a>
+</li>
+	<li class="cat-item cat-item-4490"><a href="http://www.b4umedia.in/?cat=4490" >Lang &#8211; English</a>
+</li>
+	<li class="cat-item cat-item-4491"><a href="http://www.b4umedia.in/?cat=4491" >Lang &#8211; Hindhi</a>
+</li>
+	<li class="cat-item cat-item-4493"><a href="http://www.b4umedia.in/?cat=4493" >Lang &#8211; Kanadam</a>
+</li>
+	<li class="cat-item cat-item-4489"><a href="http://www.b4umedia.in/?cat=4489" >Lang &#8211; Telugu</a>
+</li>
+	<li class="cat-item cat-item-4488"><a href="http://www.b4umedia.in/?cat=4488" >Lang-Tamil</a>
+</li>
+	<li class="cat-item cat-item-7103"><a href="http://www.b4umedia.in/?cat=7103" >Lounch</a>
+</li>
+	<li class="cat-item cat-item-4525"><a href="http://www.b4umedia.in/?cat=4525" >MalayalamMovies</a>
+</li>
+	<li class="cat-item cat-item-7096"><a href="http://www.b4umedia.in/?cat=7096" >Marriage</a>
+</li>
+	<li class="cat-item cat-item-7097"><a href="http://www.b4umedia.in/?cat=7097" >Marrige Reception</a>
+</li>
+	<li class="cat-item cat-item-6093"><a href="http://www.b4umedia.in/?cat=6093" >Motor Vehicles</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.b4umedia.in/?cat=17" >MOVIE GALLERY</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.b4umedia.in/?cat=7" >MOVIE REVIEWS</a>
+</li>
+	<li class="cat-item cat-item-4495"><a href="http://www.b4umedia.in/?cat=4495" >North India</a>
+</li>
+	<li class="cat-item cat-item-4470"><a href="http://www.b4umedia.in/?cat=4470" >Paper Add</a>
+</li>
+	<li class="cat-item cat-item-9039"><a href="http://www.b4umedia.in/?cat=9039" >POLICE</a>
+</li>
+	<li class="cat-item cat-item-5753"><a href="http://www.b4umedia.in/?cat=5753" >POLTICAL NEWS</a>
+</li>
+	<li class="cat-item cat-item-5752"><a href="http://www.b4umedia.in/?cat=5752" >POOJA GALLERY</a>
+</li>
+	<li class="cat-item cat-item-10316"><a href="http://www.b4umedia.in/?cat=10316" >Postal</a>
+</li>
+	<li class="cat-item cat-item-2140"><a href="http://www.b4umedia.in/?cat=2140" >posters</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.b4umedia.in/?cat=9" >PRESS MEET</a>
+</li>
+	<li class="cat-item cat-item-4282"><a href="http://www.b4umedia.in/?cat=4282" >Preview</a>
+</li>
+	<li class="cat-item cat-item-9774"><a href="http://www.b4umedia.in/?cat=9774" >Radio News</a>
+</li>
+	<li class="cat-item cat-item-7230"><a href="http://www.b4umedia.in/?cat=7230" >Railways</a>
+</li>
+	<li class="cat-item cat-item-9477"><a href="http://www.b4umedia.in/?cat=9477" >Real Estate</a>
+</li>
+	<li class="cat-item cat-item-6434"><a href="http://www.b4umedia.in/?cat=6434" >Religion</a>
+</li>
+	<li class="cat-item cat-item-10421"><a href="http://www.b4umedia.in/?cat=10421" >Saloon</a>
+</li>
+	<li class="cat-item cat-item-10311"><a href="http://www.b4umedia.in/?cat=10311" >School&#039;s</a>
+</li>
+	<li class="cat-item cat-item-7232"><a href="http://www.b4umedia.in/?cat=7232" >Shipyard</a>
+</li>
+	<li class="cat-item cat-item-7127"><a href="http://www.b4umedia.in/?cat=7127" >Shop&#039;s</a>
+</li>
+	<li class="cat-item cat-item-2161"><a href="http://www.b4umedia.in/?cat=2161" >SHOT FILMS</a>
+</li>
+	<li class="cat-item cat-item-2178"><a href="http://www.b4umedia.in/?cat=2178" >Sports</a>
+</li>
+	<li class="cat-item cat-item-10615"><a href="http://www.b4umedia.in/?cat=10615" >State</a>
+</li>
+	<li class="cat-item cat-item-12092"><a href="http://www.b4umedia.in/?cat=12092" >Stationaries</a>
+</li>
+	<li class="cat-item cat-item-10218"><a href="http://www.b4umedia.in/?cat=10218" >SupremeCourt</a>
+</li>
+	<li class="cat-item cat-item-7659"><a href="http://www.b4umedia.in/?cat=7659" >T V News</a>
+</li>
+	<li class="cat-item cat-item-4499"><a href="http://www.b4umedia.in/?cat=4499" >Tamil Movies</a>
+</li>
+	<li class="cat-item cat-item-4630"><a href="http://www.b4umedia.in/?cat=4630" >TAMIL NADU</a>
+</li>
+	<li class="cat-item cat-item-12617"><a href="http://www.b4umedia.in/?cat=12617" >Telecomunication</a>
+</li>
+	<li class="cat-item cat-item-4500"><a href="http://www.b4umedia.in/?cat=4500" >Telugu Movies</a>
+</li>
+	<li class="cat-item cat-item-7353"><a href="http://www.b4umedia.in/?cat=7353" >Toursim</a>
+</li>
+	<li class="cat-item cat-item-2084"><a href="http://www.b4umedia.in/?cat=2084" >TRAILERS</a>
+</li>
+	<li class="cat-item cat-item-6822"><a href="http://www.b4umedia.in/?cat=6822" >Trailor launch</a>
+</li>
+	<li class="cat-item cat-item-6662"><a href="http://www.b4umedia.in/?cat=6662" >Travels</a>
+</li>
+	<li class="cat-item cat-item-2478"><a href="http://www.b4umedia.in/?cat=2478" >VIDEO LINK</a>
+</li>
+	<li class="cat-item cat-item-2201"><a href="http://www.b4umedia.in/?cat=2201" >WORKING STILLS</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widgettitle">Meta</h3>			<ul>
+						<li><a rel="nofollow" href="http://www.b4umedia.in/wp-login.php">Log in</a></li>
+			<li><a href="http://www.b4umedia.in/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.b4umedia.in/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>
+	</section>
+	
+	</div>
+	
+		
+				<div id="footer-wrap">
+			
+			<footer id="footer" class="container clearfix" role="contentinfo">
+				Place your Footer Content here<span style="color: #fff;float: right;margin-left: 15px;">Designed &amp; Developed By <a target="_blank" href="http://www.mmlsoftware.com/" style="font-size: 17px;">MML Software Solutions</a></span>
+				<!--<div id="credit-link">		<a href="http://themezee.com/themes/zeedynamic/">zeeDynamic Theme</a>
+</div>-->
+			</footer>
+			
+		</div>
+			
+</div><!-- end #wrapper -->
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://www.b4umedia.in/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+<script type="text/javascript">
+var infolinks_pid = 2123910;
+var infolinks_wsid = 8;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+</body>
+</html>	
