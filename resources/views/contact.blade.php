@@ -48,9 +48,9 @@
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1374.0021967394014!2d80.2135734726199!3d13.082379192272743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526420db2ff731%3A0xe7bf9c5b119a47ab!2sTruckJee!5e0!3m2!1sen!2sin!4v1451375635230" width="600" height="450" frameborder="0" style="border:0;"  allowfullscreen></iframe>
                                 </div>
                             </div>
-                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="padding-left: 35px;">
+                         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="padding-left: 88px;">
                                         <div class="tg-title">
-                                            <h3>Chennai - Head Office</h3>
+                                            <h3><strong>Chennai - Head Office</strong></h3>
                                         </div>
                                             <address>
                                                 1 & 1A, Ur Nagar west extension,<br/>
@@ -93,9 +93,6 @@
                     </div>
                 </div>
             {{--</div>--}}
-
-            {{--<div class="tg-main-section tg-haslayout">--}}
-
             <section class="tg-main-section tg-haslayout tg-bglight">
                 <div class="container">
                     <div class="row">
@@ -111,12 +108,14 @@
                                         <p> We enable you to hire a truck through our portal which has created the infrastructure to identify, track and access trucks online.</p>
                                     </div>
                                 </div>
-                                {{--<a class="tg-btn" href="#">Join Now</a>--}}
+                                <a class="tg-btn" href="/">Join Now</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
+
+            {{--<div class="tg-main-section tg-haslayout">--}}
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-10 col-md-push-1 col-lg-8 col-lg-push-2">
@@ -176,6 +175,11 @@
                     </div>
                 </div>
             {{--</div>--}}
+
+
+            <section class="tg-main-section tg-haslayout tg-bglight">
+
+            </section>
 
         </main>
 

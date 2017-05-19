@@ -241,6 +241,27 @@
 
 					</div>
 				</section>
+				{{--<section class="tg-main-section tg-haslayout tg-bglight">--}}
+					{{--<div class="container">--}}
+						{{--<div class="row">--}}
+							{{--<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">--}}
+								{{--<figure class="tg-noticeboard"><img src="images/lo.png" alt="image description"></figure>--}}
+							{{--</div>--}}
+							{{--<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">--}}
+								{{--<div class="tg-secureandreliable">--}}
+									{{--<div class="tg-textshortcode">--}}
+										{{--<h2>Start Earning Today!</h2>--}}
+										{{--<h3>It’s Easy Its Reliable</h3>--}}
+										{{--<div class="tg-description">--}}
+											{{--<p> We enable you to hire a truck through our portal which has created the infrastructure to identify, track and access trucks online.</p>--}}
+										{{--</div>--}}
+									{{--</div>--}}
+									{{--<a class="tg-btn" href="#">Join Now</a>--}}
+								{{--</div>--}}
+							{{--</div>--}}
+						{{--</div>--}}
+					{{--</div>--}}
+				{{--</section>--}}
 
 				<section class="tg-main-section tg-haslayout tg-bglight">
 					<div class="container">
