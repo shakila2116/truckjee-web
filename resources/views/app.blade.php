@@ -203,6 +203,11 @@
                                     <span>info@truckjee.com</span>
                                 </li>
                             </ul>
+                            <ul class="tg-socialicons">
+                                <li class="tg-facebook"><a href="https://facebook.com/truckjee" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li class="tg-linkedin"><a href="https://www.linkedin.com/company/truckjee" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4">
@@ -216,7 +221,7 @@
                                         <div class="tg-description"><p>
                                                 The Igniters,A coffee table book launched by the economics times tells the stories of Truckjee that is on their way to greatness.
                                             </p></div>
-                                        <a href="../images/igniters.png">The Igniters Event</a>
+                                        <a href="../images/igniters.png" target="_blank">The Igniters Event</a>
                                         {{--<time datetime="2016-08-08">2 hours ago</time>--}}
                                     </li>
 
@@ -231,7 +236,7 @@
                             </div>
                             <div class="tg-widgetcontent">
                                 <ul>
-                                    <li><a href="/terms">Term and Conditions</a></li>
+                                    <li><a href="/terms" target="_blank">Term and Conditions</a></li>
                                     <li><a href="/contact">Contact</a></li>
 
                                 </ul>
@@ -250,7 +255,7 @@
                         <nav class="tg-footernav">
                             <ul>
                                 {{--<li><a href="#">Privacy Policy</a></li>--}}
-                                <li><a href="/terms">Term and Conditions</a></li>
+                                <li><a href="/terms" target="_blank">Term and Conditions</a></li>
                                 <li><a href="/contact">Contact</a></li>
                             </ul>
                         </nav>

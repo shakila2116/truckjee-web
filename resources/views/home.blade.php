@@ -241,27 +241,27 @@
 
 					</div>
 				</section>
-				{{--<section class="tg-main-section tg-haslayout tg-bglight">--}}
-					{{--<div class="container">--}}
-						{{--<div class="row">--}}
-							{{--<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">--}}
-								{{--<figure class="tg-noticeboard"><img src="images/lo.png" alt="image description"></figure>--}}
-							{{--</div>--}}
-							{{--<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">--}}
-								{{--<div class="tg-secureandreliable">--}}
-									{{--<div class="tg-textshortcode">--}}
-										{{--<h2>Start Earning Today!</h2>--}}
-										{{--<h3>It’s Easy Its Reliable</h3>--}}
-										{{--<div class="tg-description">--}}
-											{{--<p> We enable you to hire a truck through our portal which has created the infrastructure to identify, track and access trucks online.</p>--}}
-										{{--</div>--}}
-									{{--</div>--}}
-									{{--<a class="tg-btn" href="#">Join Now</a>--}}
-								{{--</div>--}}
-							{{--</div>--}}
-						{{--</div>--}}
-					{{--</div>--}}
-				{{--</section>--}}
+                                                                    {{--<section class="tg-main-section tg-haslayout tg-bglight">--}}
+                                                                        {{--<div class="container">--}}
+                                                                            {{--<div class="row">--}}
+                                                                                {{--<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">--}}
+                                                                                    {{--<figure class="tg-noticeboard"><img src="images/lo.png" alt="image description"></figure>--}}
+                                                                                {{--</div>--}}
+                                                                                {{--<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">--}}
+                                                                                    {{--<div class="tg-secureandreliable">--}}
+                                                                                        {{--<div class="tg-textshortcode">--}}
+                                                                                            {{--<h2>Start Earning Today!</h2>--}}
+                                                                                            {{--<h3>It’s Easy Its Reliable</h3>--}}
+                                                                                            {{--<div class="tg-description">--}}
+                                                                                                {{--<p> We enable you to hire a truck through our portal which has created the infrastructure to identify, track and access trucks online.</p>--}}
+                                                                                            {{--</div>--}}
+                                                                                        {{--</div>--}}
+                                                                                        {{--<a class="tg-btn" href="#">Join Now</a>--}}
+                                                                                    {{--</div>--}}
+                                                                                {{--</div>--}}
+                                                                            {{--</div>--}}
+                                                                        {{--</div>--}}
+                                                                    {{--</section>--}}
 
 				<section class="tg-main-section tg-haslayout tg-bglight">
 					<div class="container">
@@ -353,11 +353,11 @@
 							<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
 								<article class="tg-post">
 									<figure class="tg-featuredimg">
-										<a href="http://epaper.newindianexpress.com/m/898609/The-New-Indian-Express-Chennai/07082016#issue/13/2"><img src="images/news/img1.jpg" alt="image description"></a>
+										<a href="http://epaper.newindianexpress.com/m/898609/The-New-Indian-Express-Chennai/07082016#issue/13/2" target="_blank"><img src="images/news/img1.jpg" alt="image description"></a>
 									</figure>
 									<div class="tg-postcontent">
 										<div class="tg-title">
-											<h3><a href=" http://epaper.newindianexpress.com/m/898609/The-New-Indian-Express-Chennai/07082016#issue/13/2 ">An Ola for Heavy duty trucks?</a></h3>
+											<h3><a href=" http://epaper.newindianexpress.com/m/898609/The-New-Indian-Express-Chennai/07082016#issue/13/2 " target="_blank">An Ola for Heavy duty trucks?</a></h3>
 										</div>
 										<ul class="tg-postmatadata">
 											<li>
@@ -378,11 +378,11 @@
 							<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
 								<article class="tg-post">
 									<figure class="tg-featuredimg">
-										<a href="http://www.thehindubusinessline.com/economy/logistics/truckjee-an-online-portal-to-link-truck-owners-and-transporters/article8938837.ece"><img src="images/news/img2.jpg" alt="image description"></a>
+										<a href="http://www.thehindubusinessline.com/economy/logistics/truckjee-an-online-portal-to-link-truck-owners-and-transporters/article8938837.ece" target="_blank"><img src="images/news/img2.jpg" alt="image description"></a>
 									</figure>
 									<div class="tg-postcontent">
 										<div class="tg-title">
-											<h3><a href="http://www.thehindubusinessline.com/economy/logistics/truckjee-an-online-portal-to-link-truck-owners-and-transporters/article8938837.ece">Truckjee an Online Portal</a></h3>
+											<h3><a href="http://www.thehindubusinessline.com/economy/logistics/truckjee-an-online-portal-to-link-truck-owners-and-transporters/article8938837.ece" target="_blank">Truckjee an Online Portal</a></h3>
 										</div>
 										<ul class="tg-postmatadata">
 											<li>
@@ -398,11 +398,11 @@
 							<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
 								<article class="tg-post">
 									<figure class="tg-featuredimg">
-										<a href="http://www.thehindu.com/todays-paper/tp-business/Truckjee-rolls-out-online-portal-for-truck-hiring/article14554806.ece"><img src="images/news/img3.jpg" alt="image description"></a>
+										<a href="http://www.thehindu.com/todays-paper/tp-business/Truckjee-rolls-out-online-portal-for-truck-hiring/article14554806.ece" target="_blank"><img src="images/news/img3.jpg" alt="image description"></a>
 									</figure>
 									<div class="tg-postcontent">
 										<div class="tg-title">
-											<h3><a href="http://www.thehindu.com/todays-paper/tp-business/Truckjee-rolls-out-online-portal-for-truck-hiring/article14554806.ece">Truckjee rolls out online portal</a></h3>
+											<h3><a href="http://www.thehindu.com/todays-paper/tp-business/Truckjee-rolls-out-online-portal-for-truck-hiring/article14554806.ece" target="_blank">Truckjee rolls out online portal</a></h3>
 										</div>
 										<ul class="tg-postmatadata">
 
@@ -419,11 +419,11 @@
 							<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
 								<article class="tg-post">
 									<figure class="tg-featuredimg">
-										<a href="http://www.livechennai.com/detailnews.asp?catid=&newsid=28342"><img src="images/news/img5.png" alt="image description"></a>
+										<a href="http://www.livechennai.com/detailnews.asp?catid=&newsid=28342" target="_blank"><img src="images/news/img5.png" alt="image description"></a>
 									</figure>
 									<div class="tg-postcontent">
 										<div class="tg-title">
-											<h3><a href="http://www.livechennai.com/detailnews.asp?catid=&newsid=28342">TruckJee.com, a B2B Digital Market place launched
+											<h3><a href="http://www.livechennai.com/detailnews.asp?catid=&newsid=28342" target="_blank">TruckJee.com, a B2B Digital Market place launched
 												</a></h3>
 										</div>
 										<ul class="tg-postmatadata">
